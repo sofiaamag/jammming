@@ -11,7 +11,8 @@ function App() {
        <span className={styles.jam}>Jammming</span>
       </header>
       <main>
-        <span>{SearchBar}</span>
+        <SearchBar/>
+        
       </main>
       </div>
   

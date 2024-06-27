@@ -1,12 +1,13 @@
 import React from 'react';
 
 
-function SearchBar() {
+const SearchBar =  ()  => {
 
+    const clientId= "";
+    const clientSecret = "";
 
     return (
         <div className="topnav">
-            <p>Hello</p>
         <input type="text" placeholder="Search" />
     
             
@@ -15,4 +16,3 @@ function SearchBar() {
 }
 
 export default SearchBar;
-
