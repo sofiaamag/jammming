@@ -4,16 +4,23 @@ import './Tracklist';
 import './Track'
 import styles from './App.module.css';
 
-function App() {
+
+
+const App = () => {
+
+  
   return (
     <div className="App">
       <header className={styles.AppHeader}>
        <span className={styles.jam}>Jammming</span>
       </header>
-      <main>
-        <SearchBar/>
+    
+    <main> 
+      <SearchBar />
+    </main>
+       
         
-      </main>
+  
       </div>
   
   );
