@@ -1,8 +1,8 @@
-import SearchBar  from '../SearchBar.js';
-import '../SearchResults';
-import '../Tracklist';
-import '../Track'
-import styles from '../App.module.css';
+import SearchBar  from '/Users/sofiamagnani/Desktop/reactapp/jammming/jammming/src/SearchBar.js';
+import '/Users/sofiamagnani/Desktop/reactapp/jammming/jammming/src/SearchResults.js';
+import '/Users/sofiamagnani/Desktop/reactapp/jammming/jammming/src/Tracklist.js';
+import '/Users/sofiamagnani/Desktop/reactapp/jammming/jammming/src/Track.js'
+import styles from '/Users/sofiamagnani/Desktop/reactapp/jammming/jammming/src/App.module.css';
 
 
 
