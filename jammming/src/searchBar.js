@@ -8,6 +8,7 @@ const CLIENT_SECRET = "20dfb10665c2450486ee480c8c033e6f";
 
 const SearchBar =  ()  => {
     const [search, setSearch] = useState("");
+    const [accessToken, setAccessToken] = useState("");
 
     useEffect (() => {
         //API Access Token
